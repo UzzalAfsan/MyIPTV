@@ -138,3 +138,31 @@ http://peridot.streamguys.com:7150/Mirchi
 http://192.144.82.200:9302/;stream/1;;
 #EXTINF:-1,Radio Padma (99.2)
 http://cassini.shoutca.st:9109/radiopadma.mp3
+#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", Ban Vs Zim ✅ EarlyFix
+https://d3crfo4z0fi27n.cloudfront.net/hls/271112a688f858f17673fd1bc02766d6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", 🏏T Sports HD
+http://103.151.60.214:7444/1101/video.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", GTV 
+http://103.151.60.214:7444/1102/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", IPL 1 (Star Sports1) 1
+http://watchindia.net:8880/live/83023/62335/2186.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", ✅ IPL 1
+https://mahabubur@bunyhlsipla.bunycdn.com/live/720pa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", ✅ IPL 2
+https://CSKvsLSG@bunyhlsipla.bunycdn.com/live/720pa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", ✅ IPL Backup 1
+https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", ✅ IPL Backup 2
+https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", ✅ Astro Crickt HD ✅
+https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Sky Sports Cricket📶 HD
+https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", ✅ Super Sports Cricket
+https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", ✅ ATN AFG TV
+https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", ✅ Star Sports 1
+http://watchindia.net:8880/live/83023/62335/2456.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event TV 📶 HD
+https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
